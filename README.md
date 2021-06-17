@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @shubhpopat
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning IT Engineering
-- 💞️ I’m looking to collaborate on LinkedIn
-- 📫 How to reach me shubhpopat.ssp2000@gmail.com
+The Sparks Foundation Web Development Internship Task #1.
 
-<!---
-shubhpopat/shubhpopat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Basic Banking System
+
+Flow : Home Page> View all Users> Select and View one User> Transfer Money> Select reciever> View all Users> View Transfer History.
